@@ -1,0 +1,11 @@
+matplotlib
+einops
+rotary-embedding-torch
+tensorboard
+omegaconf
+opencv-python
+timm
+yacs
+gradio
+peft
+sentencepiece
