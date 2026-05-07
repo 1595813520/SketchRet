@@ -1,3 +1,6 @@
+accelerate
+diffusers>=0.24.0
+transformers
 matplotlib
 einops
 rotary-embedding-torch
