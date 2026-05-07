@@ -1,16 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-End-to-end sketch-first diffusion training with:
-- CLIP-based reference character encoding
-- text+reference decoupled cross-attention
-- full-sketch-aware, bbox-localized reference retargeting
-- coarse-anchor local sketch query branch
-- explicit phase scheduling (A/B/C)
-- line-art quality supervision
-"""
-
 from __future__ import annotations
 
 import argparse
